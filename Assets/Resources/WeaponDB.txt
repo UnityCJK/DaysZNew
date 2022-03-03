@@ -1,0 +1,16 @@
+IDX	WeaponName	AttackPower	AttackRange	Durable
+1	BaseballBat	10	1.8	20
+2	Guitar	5	1.8	12
+3	CrowBar	11	1.6	30
+4	Shovel	10	1.8	15
+5	FryingPan	6	1	15
+6	Hammer	7	1	20
+7	IronPipe	8	1.6	14
+8	FireAxe	13	1.4	25
+9	KitchenKnife	5	0.7	8
+10	HuntingKnife	6	0.8	10
+11	Clipper	3	0.5	6
+12	Driver	4	0.4	5
+13	Fork	5	0.4	4
+14	Pen	4	0.4	3
+15	Punch	2	0.4	9999

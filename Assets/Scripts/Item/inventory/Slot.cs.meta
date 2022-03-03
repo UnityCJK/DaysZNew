@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c99e55b9756783f4cbb46470c679f1ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - item: {instanceID: 0}
+  - itemImage: {instanceID: 0}
+  - popUp: {fileID: 4989504791137372915, guid: 6c6bb126de69437429692e42fcccf107, type: 3}
+  - text_Count: {instanceID: 0}
+  - go_CountImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

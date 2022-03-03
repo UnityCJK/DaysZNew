@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa92d1242756aaf468e421dd291b990f, type: 3}
+  m_Name: Clipper
+  m_EditorClassIdentifier: 
+  itemName: Clipper
+  itemDesc: 
+  itemImage: {fileID: 21300000, guid: 6ed26cc30af45c34ebd919b3ae9f12d3, type: 3}
+  itemPrefab: {fileID: 3591399785342747123, guid: 54ca5a8d4791fe941a3ecab234669485, type: 3}
+  weaponType: Melee
+  itemType: 0
+  value: 0
